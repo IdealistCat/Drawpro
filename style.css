@@ -124,7 +124,8 @@ li {
     font-style: oblique;
 }
 
-.fileattach{
+.fileattach
+.embedattach{
 	background-color: rgba(240, 240, 240, 1);
 	display: inline-block;
 	font-style: italic;
@@ -135,17 +136,5 @@ li {
 	padding-bottom:10px;
 	padding-left:10px;
 	padding-right:10px;
-}
-
-.embedattach {
-	background-color: rgba(240, 240, 240, 1);
-	display: inline-block;
-	font-style: italic;
-	font-family: "Arial";
-	border: gray solid 1.5px;
-	border-radius: 4px;
-	padding-top: 10px;
-	padding-bottom:10px;
-	padding-left:10px;
-	padding-right:10px;
+	color: black;
 }
