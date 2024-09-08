@@ -87,7 +87,8 @@ a {
 	padding: 25px;
 }
 
-.footer {
+.footer
+#sitever {
 	color:whitesmoke;
 	font-size: 12px;
 	font-family: 'Arial';
