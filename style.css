@@ -8,9 +8,9 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;*/
+  background-size: 30px;
   image-rendering: crisp-edges;
   background-color: rgba(0, 0, 0, .2);
-  background-size: 30px;
   
   color: white;
 }
