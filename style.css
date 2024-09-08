@@ -10,6 +10,7 @@ body {
   background-repeat: no-repeat;*/
   image-rendering: crisp-edges;
   background-color: rgba(0, 0, 0, .2);
+  background-size: 30px;
   
   color: white;
 }
@@ -20,7 +21,7 @@ a {
 
 .headtag{
   text-shadow: 4px 4px #000000A0;
-  background-image: url("assets/bg.png");
+  background-image: url("assets/gamever.png");
   background-repeat: repeat;
   image-rendering: crisp-edges;
   
@@ -36,7 +37,7 @@ a {
 }
 
 .linkbar {
-	background-image: url("assets/bg.png");
+	background-image: url("assets/navigate.png");
 	padding-left: 4px;
 	padding-right: 4px;
 	display: inline-block;
